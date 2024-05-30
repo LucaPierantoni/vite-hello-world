@@ -12,10 +12,13 @@ export default {
 
 </template>
 
-<style>
+<style scoped>
 
 h1 {
-  color: brown;
+  position: relative;
+  margin: 0;
+  font-size: 50px;
+  text-align: center;
 }
 
 </style>
